@@ -3,6 +3,7 @@ import { Carousel, Popular } from '../components/organisms'
 import { Layout } from '../Layouts'
 
 const Home = () => {
+   
     return (
         <Layout>
             <Popular/>
